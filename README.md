@@ -1,4 +1,5 @@
 # Project hosted link - https://endearing-sorbet-94d580.netlify.app/
+Note: Advice is cached for 2 seconds. Any repeat-request within 2 seconds will return the same piece of advice and still make a count.
 
 ### `npm start`
 
